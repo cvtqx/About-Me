@@ -37,6 +37,7 @@ footer{
     color: #B9AD79;
 }
 
+
 main div{
     margin: auto 200px;
     text-align: justify;
@@ -46,7 +47,7 @@ main h2{
     text-align: center;
 }
 
-main ol li, .contact, .image{
+main ol li, .contact, .image, .resumeLink{
     text-align: center;
 }
 /*link styling*/
@@ -70,5 +71,6 @@ a:active{
 hr{
     margin: auto 30px;
 }
+
 
 
